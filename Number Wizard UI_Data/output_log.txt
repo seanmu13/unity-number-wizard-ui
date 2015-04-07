@@ -1,0 +1,19 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6570M/5700 Series (ID=0x68c0)
+    Vendor:   ATI
+    VRAM:     1010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\unity\Number Wizard UI\Number Wizard UI_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\unity\Number Wizard UI\Number Wizard UI_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\unity\Number Wizard UI\Number Wizard UI_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\unity\Number Wizard UI\Number Wizard UI_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\unity\Number Wizard UI\Number Wizard UI_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\unity\Number Wizard UI\Number Wizard UI_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.238 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
